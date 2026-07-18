@@ -11,12 +11,6 @@ A modern, responsive, and interactive portfolio website built to showcase my pro
 
 ---
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Render-Deployed-46E3B7?style=for-the-badge)
-
 </div>
 
 ---
@@ -33,19 +27,19 @@ It reflects my passion for building intuitive user experiences and solving real-
 
 # 🌟 Key Features
 
-- 🎨 Modern UI/UX Design
-- 📱 Fully Responsive Layout
-- ⚡ Smooth Animations & Transitions
-- 👨‍💻 Professional Hero Section
-- 🙋 About Me Section
-- 🛠 Technical Skills
-- 💼 Featured Projects
-- 📜 Certifications
-- 🏆 Achievements
-- 🎓 Education Timeline
-- 📧 Contact Form
-- 🌙 Clean & Interactive Interface
-- 🚀 Optimized Performance
+-  Modern UI/UX Design
+-  Fully Responsive Layout
+-  Smooth Animations & Transitions
+-  Professional Hero Section
+-  About Me Section
+-  Technical Skills
+-  Featured Projects
+-  Certifications
+-  Achievements
+-  Education Timeline
+-  Contact Form
+-  Clean & Interactive Interface
+-  Optimized Performance
 
 ---
 
